@@ -22,13 +22,26 @@
 GThinker achieves 81.5% on comprehensive and challenging multimodal reasoning benchmark M3CoT, even outperforming the latest O4-mini, while also shows strong performance on general, knowledge, and science scenarios multimodal reasoning.
 
 <p align="center">
-  <img src="assets/main_results_m3cot.png" alt="Main_M3CoT" height="250"/>
-  <img src="assets/main_results_all.png" alt="Main_All" height="250"/>
+  <img src="assets/main_results_m3cot.png" alt="Main_M3CoT" height="200"/>
+  <img src="assets/main_results_all.png" alt="Main_All" height="200"/>
 </p>
 
 ## Qualitative Analysis
 
 <p align="center">
-  <img src="assets/sample1.jpg" alt="Main_M3CoT" height="500"/>
-  <img src="assets/sample2.jpg" alt="Main_All" height="500"/>
+  <img src="assets/sample1.jpg" alt="Main_M3CoT" height="370"/>
+  <img src="assets/sample2.jpg" alt="Main_All" height="370"/>
 </p>
+
+## Citation
+```bibtex
+@misc{zhan2025gthinker,
+      title={GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking}, 
+      author={Yufei Zhan and Ziheng Wu and Yousong Zhu and Rongkun Xue and Ruipu Luo and Zhenghao Chen and Can Zhang and Yifan Li and Zhentao He and Zheming Yang and Ming Tang and Minghui Qiu and Jinqiao Wang},
+      year={2025},
+      eprint={2506.01078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.01078}, 
+}
+```
