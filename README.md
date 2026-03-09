@@ -84,5 +84,4 @@ If you find our work helpful, please consider citing our paper:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2506.01078}, 
 }
-}
 ```
