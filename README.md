@@ -2,7 +2,7 @@
   
 <h1> GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking </h1>
 
-**[Yufei Zhan](https://scholar.google.com/citations?user=RvHqTGEAAAAJ&hl=en)**<sup>†</sup>, **[Ziheng Wu](https://scholar.google.com/citations?user=dxz-OP0AAAAJ&hl=zh-CN)**<sup>†</sup>, **Yousong Zhu**<sup>✉</sup>, **Rongkun Xue**, **Guanghao Zhou**, **Ruipu Luo**, **Zhenghao Chen**, **Can Zhang**, **Yifan Li**, **Zhentao He**, **Zheming Yang**, **Ming Tang**, **Minghui Qiu**, **Jinqiao Wang**<sup>✉</sup>
+**[Yufei Zhan](https://scholar.google.com/citations?user=RvHqTGEAAAAJ&hl=en)**<sup>†</sup>, **[Ziheng Wu](https://scholar.google.com/citations?user=dxz-OP0AAAAJ&hl=zh-CN)**<sup>†</sup>, **[Yousong Zhu](https://yousongzhu.github.io)**<sup>✉</sup>, **Rongkun Xue**, **Guanghao Zhou**, **Ruipu Luo**, **Zhenghao Chen**, **Can Zhang**, **Yifan Li**, **Zhentao He**, **Zheming Yang**, **Ming Tang**, **Minghui Qiu**, **[Jinqiao Wang](https://scholar.google.com/citations?user=7_BkyxEAAAAJ&hl=zh-CN)**<sup>✉</sup>
 
 <sup>†</sup>Equal Contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sup>✉</sup>Corresponding Author
 
